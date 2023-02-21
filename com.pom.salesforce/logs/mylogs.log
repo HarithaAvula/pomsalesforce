@@ -1,0 +1,27 @@
+20230219 15:05:51 INFO  [main] salesforcetest.salesforce_login salesforce_login.java63 - started
+20230219 15:07:51 INFO  [main] salesforcetest.salesforce_login salesforce_login.java63 - started
+20230219 15:08:58 INFO  [main] salesforcetest.salesforce_login salesforce_login.java63 - started
+20230219 15:16:44 INFO  [main] salesforcetest.salesforce_login salesforce_login.java63 - started
+20230219 15:19:07 INFO  [main] salesforcetest.salesforce_login salesforce_login.java63 - started
+20230219 15:23:29 INFO  [main] salesforcetest.salesforce_login salesforce_login.java63 - started
+20230219 15:27:49 INFO  [main] salesforcetest.salesforce_login salesforce_login.java63 - started
+20230219 15:27:58 INFO  [main] salesforcetest.salesforce_login salesforce_login.java76 - Home Page ~ Salesforce - Developer Edition
+20230219 15:35:13 INFO  [main] salesforcetest.salesforce_login salesforce_login.java106 - started
+20230219 15:37:18 INFO  [main] salesforcetest.salesforce_login salesforce_login.java152 - started
+20230219 15:37:21 INFO  [main] salesforcetest.salesforce_login salesforce_login.java160 - Remember checkbox is clicked
+20230219 15:37:28 INFO  [main] salesforcetest.salesforce_login salesforce_login.java167 - Home Page ~ Salesforce - Developer Edition
+20230220 08:59:18 INFO  [main] salesforcetest.salesforce_login salesforce_login.java250 - started
+20230220 08:59:28 INFO  [main] salesforcetest.salesforce_login salesforce_login.java263 - Home Page ~ Salesforce - Developer Edition
+20230220 08:59:29 INFO  [main] salesforcetest.salesforce_login salesforce_login.java271 - same user name
+20230220 09:06:42 INFO  [main] salesforcetest.salesforce_login salesforce_login.java195 - We’ve sent you an email with a link to finish resetting your password.
+20230220 09:06:45 INFO  [main] salesforcetest.salesforce_login salesforce_login.java63 - started
+20230220 09:06:53 INFO  [main] salesforcetest.salesforce_login salesforce_login.java76 - Home Page ~ Salesforce - Developer Edition
+20230220 09:06:56 INFO  [main] salesforcetest.salesforce_login salesforce_login.java106 - started
+20230220 09:06:59 ERROR [main] salesforcetest.salesforce_login salesforce_login.java129 - Please enter your password.
+20230220 09:07:01 INFO  [main] salesforcetest.salesforce_login salesforce_login.java152 - started
+20230220 09:07:03 INFO  [main] salesforcetest.salesforce_login salesforce_login.java160 - Remember checkbox is clicked
+20230220 09:07:11 INFO  [main] salesforcetest.salesforce_login salesforce_login.java167 - Home Page ~ Salesforce - Developer Edition
+20230220 09:07:13 INFO  [main] salesforcetest.salesforce_login salesforce_login.java251 - started
+20230220 09:07:22 INFO  [main] salesforcetest.salesforce_login salesforce_login.java264 - Home Page ~ Salesforce - Developer Edition
+20230220 09:07:23 INFO  [main] salesforcetest.salesforce_login salesforce_login.java272 - same user name
+20230220 09:07:39 ERROR [main] salesforcetest.salesforce_login salesforce_login.java227 - Please check your username and password. If you still can't log in, contact your Salesforce administrator.

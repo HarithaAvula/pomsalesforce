@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-20T09:06:37 PST" name="Default suite" finished-at="2023-02-20T09:07:39 PST" duration-ms="61951">
+    <groups>
+    </groups>
+    <test started-at="2023-02-20T09:06:37 PST" name="Default test" finished-at="2023-02-20T09:07:39 PST" duration-ms="61951">
+      <class name="salesforcetest.salesforce_login">
+        <test-method is-config="true" signature="setUpBeforeTest()[pri:0, instance:salesforcetest.salesforce_login@4d5b6aac]" started-at="2023-02-20T09:06:37 PST" name="setUpBeforeTest" finished-at="2023-02-20T09:06:37 PST" duration-ms="300" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeTest -->
+        <test-method signature="forgotpassword()[pri:0, instance:salesforcetest.salesforce_login@4d5b6aac]" started-at="2023-02-20T09:06:37 PST" name="forgotpassword" finished-at="2023-02-20T09:06:42 PST" duration-ms="4757" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- forgotpassword -->
+        <test-method signature="login()[pri:0, instance:salesforcetest.salesforce_login@4d5b6aac]" started-at="2023-02-20T09:06:42 PST" name="login" finished-at="2023-02-20T09:06:54 PST" duration-ms="11334" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="loginwrong()[pri:0, instance:salesforcetest.salesforce_login@4d5b6aac]" started-at="2023-02-20T09:06:54 PST" name="loginwrong" finished-at="2023-02-20T09:06:59 PST" duration-ms="5115" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginwrong -->
+        <test-method signature="remberbox()[pri:0, instance:salesforcetest.salesforce_login@4d5b6aac]" started-at="2023-02-20T09:06:59 PST" name="remberbox" finished-at="2023-02-20T09:07:11 PST" duration-ms="12060" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- remberbox -->
+        <test-method signature="returnfromhome()[pri:0, instance:salesforcetest.salesforce_login@4d5b6aac]" started-at="2023-02-20T09:07:11 PST" name="returnfromhome" finished-at="2023-02-20T09:07:23 PST" duration-ms="12078" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- returnfromhome -->
+        <test-method signature="wrong_details()[pri:0, instance:salesforcetest.salesforce_login@4d5b6aac]" started-at="2023-02-20T09:07:23 PST" name="wrong_details" finished-at="2023-02-20T09:07:39 PST" duration-ms="16080" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wrong_details -->
+      </class> <!-- salesforcetest.salesforce_login -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
